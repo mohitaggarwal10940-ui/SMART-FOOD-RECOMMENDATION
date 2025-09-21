@@ -1,0 +1,56 @@
+Disease,Food,Recommendation,Reason,Biomarker
+Diabetes,Banana,Avoid,Banana has natural sugar that raises blood sugar quickly.,Blood Sugar
+Diabetes,Oats,Recommend,Oats have fiber that keeps blood sugar steady.,Blood Sugar
+Diabetes,Rice,Avoid,Rice has high starch that makes sugar levels go up fast.,Blood Sugar
+Diabetes,Apple,Recommend,"Apple has fiber and low sugar, safe in small amounts.",Blood Sugar
+Diabetes,Mango,Avoid,Mango is very sweet and raises sugar levels.,Blood Sugar
+Diabetes,Nuts,Recommend,Nuts have healthy fat and fiber that help control sugar.,Blood Sugar
+Diabetes,Bitter Gourd,Recommend,Bitter gourd naturally helps lower blood sugar.,Blood Sugar
+Diabetes,Potato,Avoid,Potato is starchy and raises blood sugar fast.,Blood Sugar
+Diabetes,Brown Rice,Recommend,"Brown rice has more fiber than white rice, better for sugar control.",Blood Sugar
+Diabetes,Sweet Drinks,Avoid,Soft drinks and juices have added sugar that spikes sugar level.,Blood Sugar
+Thyroid,Broccoli,Avoid,Broccoli has chemicals that reduce thyroid activity.,Thyroid Function
+Thyroid,Cabbage,Avoid,Cabbage can slow thyroid hormone production.,Thyroid Function
+Thyroid,Spinach,Avoid,Too much spinach can block iodine use.,Thyroid Function
+Thyroid,Fish,Recommend,Fish has iodine and omega-3 that support thyroid.,Thyroid Function
+Thyroid,Eggs,Recommend,"Eggs give iodine and selenium, good for thyroid health.",Thyroid Function
+Thyroid,Nuts,Recommend,Nuts have selenium that helps thyroid work well.,Thyroid Function
+Thyroid,Soy,Avoid,Soy may block thyroid medicine from working well.,Thyroid Function
+Thyroid,Milk,Recommend,Milk has iodine and vitamin D that support thyroid.,Thyroid Function
+Hypertension,Salt,Avoid,Too much salt makes blood pressure go up.,Blood Pressure
+Hypertension,Pickles,Avoid,Pickles have a lot of salt that raises blood pressure.,Blood Pressure
+Hypertension,Processed Meat,Avoid,Packed meat has salt and fat that raise BP.,Blood Pressure
+Hypertension,Garlic,Recommend,Garlic helps relax blood vessels and lowers BP.,Blood Pressure
+Hypertension,Spinach,Recommend,Spinach has potassium that balances salt in body.,Blood Pressure
+Hypertension,Banana,Recommend,Banana has potassium that helps reduce BP.,Blood Pressure
+Hypertension,Olive Oil,Recommend,Olive oil has healthy fat that is good for heart and BP.,Blood Pressure
+Hypertension,Fried Food,Avoid,Fried food has unhealthy fat that raises BP risk.,Blood Pressure
+Hypertension,Apple,Recommend,Apple is a fruit with fiber and helps keep BP normal.,Blood Pressure
+Obesity,Sugary Drinks,Avoid,Soft drinks and juices add sugar and cause weight gain.,Body Weight
+Obesity,Pastries,Avoid,Pastries have sugar and fat that increase weight.,Body Weight
+Obesity,Fried Food,Avoid,Fried food has high calories that cause fat storage.,Body Weight
+Obesity,Green Tea,Recommend,Green tea helps burn fat and boost metabolism.,Body Weight
+Obesity,Lentils,Recommend,Lentils have protein and fiber that keep you full.,Body Weight
+Obesity,Salad,Recommend,Salad is low in calories and keeps stomach full.,Body Weight
+Obesity,Brown Rice,Recommend,Brown rice has fiber that helps control weight.,Body Weight
+Obesity,Chips,Avoid,Chips have fat and salt that add weight.,Body Weight
+Obesity,Fruits,Recommend,Fruits give vitamins and fiber with fewer calories.,Body Weight
+Obesity,Vegetables,Recommend,Vegetables are low calorie and full of nutrients.,Body Weight
+Anemia,Spinach,Recommend,Spinach has iron that helps make red blood cells.,Hemoglobin
+Anemia,Liver,Recommend,Liver is rich in iron and vitamin B12.,Hemoglobin
+Anemia,Red Meat,Recommend,Meat has iron that boosts blood count.,Hemoglobin
+Anemia,Milk,Avoid,Too much milk can block iron absorption.,Hemoglobin
+Anemia,Tea,Avoid,Tea can reduce iron absorption from food.,Hemoglobin
+Anemia,Beans,Recommend,"Beans have iron and protein, good for blood health.",Hemoglobin
+Cholesterol,Fried Food,Avoid,Fried food has unhealthy fat that raises cholesterol.,Cholesterol
+Cholesterol,Butter,Avoid,Butter has saturated fat that increases cholesterol.,Cholesterol
+Cholesterol,Olive Oil,Recommend,Olive oil has healthy fat that lowers bad cholesterol.,Cholesterol
+Cholesterol,Nuts,Recommend,Nuts have good fat that helps lower cholesterol.,Cholesterol
+Cholesterol,Fish,Recommend,Fish has omega-3 that lowers bad cholesterol.,Cholesterol
+Cholesterol,Egg Yolk,Avoid,"Egg yolk has cholesterol, should be limited.",Cholesterol
+Kidney Disease,Red Meat,Avoid,Red meat puts pressure on kidneys.,Creatinine
+Kidney Disease,Banana,Avoid,"Banana has potassium, harmful in kidney disease.",Potassium
+Kidney Disease,Watermelon,Recommend,Watermelon helps keep body hydrated.,Kidney Function
+Kidney Disease,Cabbage,Recommend,Cabbage is low in potassium and good for kidneys.,Kidney Function
+Kidney Disease,Processed Food,Avoid,Processed food has salt that damages kidneys.,Kidney Function
+Kidney Disease,Cauliflower,Recommend,Cauliflower is kidney-friendly and full of nutrients.,Kidney Function
