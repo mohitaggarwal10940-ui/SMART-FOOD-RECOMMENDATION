@@ -1,4 +1,5 @@
 # 🥗 Smart Food Recommendation System
+https://mohitaggarwal10940-ui-smart-food-recommendation-app-zacxq5.streamlit.app/
 
 ## 📌 Overview
 This project is a **Streamlit-based web app** that helps users decide which foods are safe or unsafe for specific health conditions.  
